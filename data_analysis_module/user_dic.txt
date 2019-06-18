@@ -1,0 +1,705 @@
+meltdown	SH
+spectre	SH
+artificial intelligence	SH
+neural network	SH
+hoax	SH
+smart OTP	SH
+interception	SH
+VPN	SH
+virtual private network	SH
+cryptocurrency	SH
+virtual circuit	SH
+availability	SH
+audit	SH
+audit trail	SH
+MAC	SH
+mandatory access control	SH
+open security	SH
+OSI Standard	SH
+open systems interconnection standard	SH
+IBP	SH
+individual based policy	SH
+privacy enhancement	SH
+PIPL	SH
+personal information protection level	SH
+OLE	SH
+object linking and embedding	SH
+COM	SH
+component object model	SH
+gateway	SH
+GateKeeper	SH
+quarantine area	SH
+race condition	SH
+gopher	SH
+public key	SH
+PKI	SH
+public key infrastructure	SH
+public key cryptography	SH
+PKCS	SH
+public key cryptography system	SH
+C&C Server	SH
+command and control server	SH
+CGI	SH
+common gateway interface	SH
+CDSA	SH
+common data security architecture	SH
+MIB	SH
+management information base	SH
+administrative security	SH
+configuration vulnerability	SH
+NII	SH
+national information infrastructure	SH
+IDEA	SH
+international data encryption algorithm	SH
+ICSA	SH
+international computer security association	SH
+ISO	SH
+international standards organization	SH
+authorization	SH
+rules based detection	SH
+GBP	SH
+group based policy	SH
+NFC	SH
+near field communication	SH
+confidentiality	SH
+ECM	SH
+enterprise contents management	SH
+GitHub	SH
+IGP	SH
+interior gateway protocol	SH
+robust watermarking	SH
+content filtering	SH
+NIPS	SH
+network based IPS	SH
+NNTP	SH
+network news transport protocol	SH
+network security	SH
+SATAN	SH
+security analysis tool for auditing networks	SH
+network level firewall	SH
+NAP	SH
+network access point	SH
+NAS	SH
+network attached storage	SH
+NAT	SH
+network address translation	SH
+NIC	SH
+network interface card	SH
+NTP	SH
+network time protocol	SH
+NFS	SH
+network file system	SH
+network forensics	SH
+NetBIOS	SH
+network basic input output system	SH
+NetBEUI	SH
+NetBIOS extended user interface	SH
+nomophobia	SH
+logic bomb	SH
+new ban	SH
+Active IDS	SH
+active intruision detection system	SH
+active attack	SH
+DMZ zone	SH
+MIME	SH
+multi purpose internet mail extension	SH
+dyre	SH
+MUC	SH
+multi user control	SH
+MPLS	SH
+multiprotocol label switching	SH
+SOAP	SH
+simple object access protoco	SH
+SNMP	SH
+simple  network management protocol	SH
+SSDP	SH
+simple service discovery protocol	SH
+SSO	SH
+single sign on	SH
+countermeasures	SH
+symmetric algorithm	SH
+daemon	SH
+DES	SH
+data encryption standard	SH
+data driven attack	SH
+DNS Server	SH
+domain name system server	SH
+DNS Spoofing	SH
+domain name system spoofing	SH
+DNS	SH
+domain name system	SH
+wiretapping	SH
+DHCP	SH
+dynamic host configuration protocol	SH
+replay attack	SH
+two factor authentication	SH
+drive by download	SH
+droppedin	SH
+dropper	SH
+debugging	SH
+disk forensics	SH
+DRM	SH
+digital rights management	SH
+digital forensic	SH
+deep web	SH
+router	SH
+RIP	SH
+routing information protocol	SH
+LLS	SH
+license logging service	SH
+lateral movement	SH
+lattice security model	SH
+LAND attack	SH
+ransomware	SH
+regin	SH
+load balancing	SH
+rootkit tool	SH
+rooting	SH
+linux	SH
+reverseshell	SH
+leapfrog attack	SH
+MBR Infector	SH
+master boot record infector	SH
+miner	SH
+Manage VPN	SH
+manage virtual private network	SH
+macro virus	SH
+ManTrap	SH
+machine learning	SH
+malvertising	SH
+malware	SH
+MPLS VPN	SH
+multiprotocol label switching virtual private network	SH
+memory resident program	SH
+message digest	SH
+mail bomb	SH
+mobile device forensics	SH
+integrity	SH
+WAP	SH
+wireless application protocol	SH
+WTLS certificate	SH
+wireless transport layer security certificate	SH
+brute force attack	SH
+physical security	SH
+NCSC	SH
+national computer security center	SH
+virus	SH
+emission security	SH
+interruption	SH
+firewall	SH
+CBC	SH
+context based control	SH
+bastion host	SH
+back door	SH
+back orifice	SH
+vaccine	SH
+bankun	SH
+bug bounty	SH
+buffer overflow	SH
+BLP Model	SH
+bell LaPadula model	SH
+modification	SH
+security audit	SH
+security audit trail	SH
+security domains	SH
+security classification	SH
+SAML	SH
+security assertion markup language	SH
+security incident	SH
+SSH	SH
+secure shell	SH
+security level	SH
+security architecture	SH
+SIEM	SH
+(security information event management	SH
+security kernel	SH
+ESP Protocol	SH
+encapsulating security payload protocol	SH
+security evaluation	SH
+protection philosophy	SH
+QOP	SH
+quality of protection	SH
+RTO	SH
+recovery time objective	SH
+RPO	SH
+recovery point objective	SH
+replicator	SH
+decryption	SH
+botnet	SH
+non repudiation	SH
+boot sector infector	SH
+DDoS	SH
+distributed denial of service attack	SH
+DCE	SH
+distributed computing environment	SH
+PUP	SH
+potentially unwanted program	SH
+bridge	SH
+blacklist	SH
+blowfish	SH
+bloatware	SH
+blockchain	SH
+BSOD	SH
+blue screen of death	SH
+UAF	SH
+univeral authentication framework	SH
+asymetric algorithm	SH
+DMZ	SH
+demilitarized zone	SH
+P3P	SH
+platform for privacy preferences	SH
+private key	SH
+private key cryptography	SH
+biba integrity model	SH
+NC-Bot	SH
+non client bot	SH
+contingency plan	SH
+cost risk analysis	SH
+non discretionary security	SH
+beacon	SH
+bit padding	SH
+BER	SH
+bit error rate	SH
+bitcoin	SH
+big data	SH
+IoT	SH
+internet of things	SH
+UDP	SH
+user datagram protocol	SH
+user identification	SH
+user profile	SH
+cyber kill chain	SH
+dictionary attack	SH
+social engineering	SH
+HSRP	SH
+hot standby router protocol	SH
+production honeypot	SH
+biometrics	SH
+SMB	SH
+server message block protocol	SH
+DoS	SH
+denial of service	SH
+service port	SH
+RFC	SH
+request for comments	SH
+sednit	SH
+session key	SH
+session hijacking attack	SH
+source code forensics	SH
+source code	SH
+SDN	SH
+software define networking	SH
+Passive IDS	SH
+passive intruision detection system	SH
+passive attack	SH
+circuit level gateway	SH
+sneaker	SH
+sniffer	SH
+smart card	SH
+smurfing	SH
+smishing	SH
+switch jamming attack	SH
+SCADA	SH
+scanning	SH
+scanning program	SH
+skeleton key	SH
+script	SH
+stuxnet	SH
+steganography	SH
+stereography	SH
+SpyEye	SH
+spyware	SH
+spam	SH
+spambot	SH
+spoofing	SH
+speed hack	SH
+spear phishing	SH
+signature	SH
+SSL	SH
+secure sockets layer	SH
+SSL VPN	SH
+secure sockets layer virtual private network	SH
+secure coding	SH
+citadel	SH
+CtbLocker	SH
+critroni	SH
+identification	SH
+SYN flooding attack	SH
+RTSP	SH
+real time streaming protocol	SH
+RTCP	SH
+real time transport control protocol	SH
+SimpleLocker	SH
+ssabobot	SH
+ARP Sppofing	SH
+address resolution protocol spoofing	SH
+IP/Port	SH
+SQL injection 	SH
+ibeacon	SH
+i PIN	SH
+malicious code	SH
+algorithm	SH
+cryptanalysis	SH
+cryptographic hash function	SH
+cryptography	SH
+cryptographic key	SH
+encryption	SH
+EFS	SH
+encrypting file system	SH
+activation lock	SH
+upatre	SH
+BCP	SH
+business continuity planning	SH
+BIA	SH
+business impact analysis	SH
+escrow account	SH
+xcode	SH
+NsbLocker	SH
+national security bureau	SH
+nabucur	SH
+elknot	SH
+RBAC	SH
+role based access control	SH
+research honeypot	SH
+fragile watermarking	SH
+autorun virus	SH
+autoplay	SH
+operation aurora	SH
+ONF	SH
+open networking foundation	SH
+open computing language	SH
+open secure socket layer	SH
+WPA	SH
+wi fi protected access	SH
+worm	SH
+wearable computer	SH
+WebDAV propfind DoS	SH
+web exploit toolkit	SH
+web forensics	SH
+WS security	SH
+WS fedration	SH
+WS policy	SH
+WS trust	SH
+WS secure conversation	SH
+WS privacy	SH
+fabrication	SH
+risk management	SH
+compromise	SH
+risk analysis	SH
+risk assessment	SH
+threat assessment	SH
+WEP	SH
+wire equivalent provacy	SH
+stealth virus	SH
+application level gateway	SH
+ALS	SH
+application layer security	SH
+ethernet	SH
+ethernet sniffing	SH
+e mail forensics	SH
+evil twin	SH
+FDS	SH
+fraud detection system	SH
+EMV	SH
+europay mastercard visa	SH
+U2F	SH
+universal second factor	SH
+exploit	SH
+exploit code	SH
+personnel security	SH
+authentication	SH
+certification	SH
+CA	SH
+certificate authority	SH
+AH	SH
+authentication header	SH
+CRL	SH
+certificate revocation list	SH
+encapsulation	SH
+iFCP	SH
+internet fiber channel protocol	SH
+IMAP	SH
+internet message access protocol	SH
+iSCSI	SH
+internet small computer system interface	SH
+internet worm	SH
+iSNS	SH
+internet storage name service	SH
+IIS	SH
+internet information server	SH
+ICMP	SH
+internet control message protocol	SH
+ICMP Redirect Attack	SH
+internet control message protocol redirect attack	SH
+ICMP smurf attack	SH
+IRC	SH
+internet relay chat	SH
+IKE	SH
+internet key exchange	SH
+IP	SH
+internet protocol	SH
+FCIP	SH
+fiber channel over internet protocol	SH
+IP fragmentation	SH
+IP Fragmentation Attack	SH
+internet protocol fragmentation attack	SH
+IPSec	SH
+internet protocol security	SH
+IPsec WG	SH
+internet protocol security working group	SH
+IPsra WG	SH
+internet protocol security remote access working group	SH
+IPsp WG	SH
+internet protocol security policy working group	SH
+IP Spoofing	SH
+internet protocol spoofing	SH
+KrCERT	SH
+korea internet security center	SH
+InterNIC	SH
+internet network information center	SH
+interpreter	SH
+VDC	SH
+value dependent control	SH
+DAC	SH
+discretionary access control	SH
+java	SH
+java security	SH
+RSVP	SH
+resource reservation protocol	SH
+gyro sensor	SH
+DVMRP	SH
+distance vector multicast routing protocol	SH
+DRP	SH
+disaster recovery plan	SH
+DRS	SH
+disaster recovery system	SH
+ERM	SH
+enterprise risk management	SH
+TCP Syn Flooding	SH
+transmission control protocol syn flooding	SH
+TCP wrapper	SH
+transmission control protocol wrapper	SH
+TCP/IP	SH
+transmission control Protocol/Internet protocol	SH
+TLS	SH
+transport layer security	SH
+digital signature	SH
+digital certificate	SH
+INDECS	SH
+INteroperability of data in electronic commerce system	SH
+PPTP	SH
+point to point tunneling protocol	SH
+access control	SH
+access control matrix	SH
+access mediation	SH
+access token	SH
+ISMS	SH
+information security management system	SH
+policy	SH
+trusted third party	SH
+zero day attack	SH
+ZeuS	SH
+CAS	SH
+conditional access system	SH
+term rule based security policy	SH
+joke	SH
+zombie PC	SH
+RMS	SH
+risk management system	SH
+PDC	SH
+primary domain controller	SH
+ARP Redirect Attack	SH
+address resolution protocol redirect attack	SH
+ARP Spoofing Attack	SH
+address resolution protocol spoofing attack	SH
+ping of death	SH
+MITM	SH
+man in the middle attack	SH
+GTBot	SH
+global threat bot	SH
+SLIP	SH
+serial line internet protocol	SH
+DS	SH
+differentiated services	SH
+accountability	SH
+ChatBot	SH
+blue bomb	SH
+WinNuke	SH
+nuking	SH
+chest	SH
+OSPF	SH
+open shortest path first	SH
+MTU	SH
+maximum transmission unit	SH
+tracerouter	SH
+trace packet	SH
+vulnerability	SH
+vulnerability analysis	SH
+IPS	SH
+intrusion prevention system	SH
+IDS	SH
+intruision detection system	SH
+ITS	SH
+intrusion tolerant system	SH
+IPS	SH
+intrusion prevention system	SH
+IDS	SH
+intrusion detection system	SH
+penetration testing	SH
+COM Hooking	SH
+component object model hooking	SH
+kaiten	SH
+content security	SH
+compiler	SH
+computer forensics	SH
+TCSEC	SH
+trusted computer security evaluation criteria	SH
+kerberos	SH
+cosmos	SH
+coin miner	SH
+cookie	SH
+qshing	SH
+QR code	SH
+cracker	SH
+cracking	SH
+crack	SH
+CryptoLocker	SH
+cryptowall	SH
+cryptodefense	SH
+cryptojacking	SH
+cloud computing	SH
+clark wilson model	SH
+key management	SH
+key recovery	SH
+key retrieval	SH
+KDC	SH
+key distribution center	SH
+keystroke monitoring	SH
+key escrow	SH
+key file	SH
+key logger attack	SH
+keyboard hooking	SH
+key space	SH
+kill switch	SH
+ECC	SH
+elliptic curve cryptograph	SH
+tiger	SH
+tiger team	SH
+jailbreaking 	SH
+tampering	SH
+tunneling	SH
+terminal hijacking	SH
+TeslaCrypt	SH
+TorrentLocker	SH
+token	SH
+token ring network	SH
+traffic padding	SH
+trap door	SH
+trapwire	SH
+trojan horse	SH
+pharming	SH
+parsing	SH
+file infector	SH
+FAT	SH
+file allocation table	SH
+FTP	SH
+file transfer protocol	SH
+partition	SH
+password	SH
+password attack	SH
+PWL	SH
+PassWord list	SH
+patch	SH
+packet sniffer	SH
+PING	SH
+packet internet groper	SH
+packet filte	SH
+packet filtering	SH
+fragmentation	SH
+firmware	SH
+letterbomb	SH
+POP	SH
+post office protocol	SH
+fork bomb	SH
+port mirroring	SH
+polling	SH
+PEM	SH
+privacy enhanced mail	SH
+FREAK	SH
+factoring attack on RSA EXPORT keys	SH
+project spartan	SH
+proxy	SH
+preamble	SH
+fishbowl	SH
+phishing	SH
+fintech	SH
+finger	SH
+fingerprinting	SH
+HTML	SH
+HyperText markup language	SH
+HTTP	SH
+HyperText transfer protocol	SH
+HartBleed	SH
+hactivism	SH
+honeypot	SH
+promiscuous mode	SH
+whitelist	SH
+white hacker	SH
+XML KMS	SH
+extensible markup language key management specification	SH
+XML Encryption	SH
+extensible markup language encryption	SH
+XML Signature	SH
+extensible markup language key management signature	SH
+XACML	SH
+extensible access control markup language	SH
+EAP	SH
+extensible authentication protocol	SH
+heap spraying	SH
+DNA scan	SH
+crowdsourcing	SH
+AAA Server	SH
+authentication, authorization, accounting server	SH
+CERT	SH
+computer emergency response team	SH
+APT	SH
+advanced persistent threat	SH
+Blind IP Spoofing	SH
+blind internet protocol spoofing	SH
+BYOD	SH
+bring your own device	SH
+CCMP	SH
+counter mode cipher block chaining message authentication code protocol	SH
+duplicated information	SH
+DHTML editing component ActiveX control	SH
+DICA	SH
+dynamic intelligent content analysis	SH
+DPI	SH
+deep packet inspection	SH
+HIPS	SH
+host based intrusion prevention system	SH
+multi signature	SH
+Non Blind IP Spoofing	SH
+non blind internet protocol spoofing	SH
+mysql	SH
+MDM	SH
+mobile device management	SH
+OTP	SH
+one time password	SH
+nak attack	SH
+RSA algorithm	SH
+PGP	SH
+pretty good privacy	SH
+RSIP	SH
+realm specific internet protocol	SH
+SET	SH
+secure electronic transaction	SH
+TCP half open	SH
+tiny fragment attack	SH
+SDK	SH
+software development kit	SH
+SUID	SH
+GUID	SH
+watering hole attack	SH
+XSS	SH
+cross site scripting	SH
